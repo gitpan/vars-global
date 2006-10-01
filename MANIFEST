@@ -1,0 +1,14 @@
+Build.PL
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/vars/global.pm
+t/00.load.t
+t/pod-coverage.t
+t/pod.t
+t/01.correct.t
+t/02.twopacks.t
+t/03.failures.t
+t/04.all.t

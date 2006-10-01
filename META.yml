@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: vars-global
+version: v0.0.1
+author:
+  - Flavio Poletti <flavio [at] polettix [dot] it>
+abstract: try to make global variables a little safer
+license: perl
+generated_by: Module::Build version 0.2611, without YAML.pm
