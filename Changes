@@ -1,5 +1,8 @@
 Revision history for vars-global
 
+0.0.4  Fri Aug 02 22:42:00 2013
+       Fixed hashing uncertainty bug in tests
+
 0.0.3  Sun Jul 21 16:55:00 2013
        Fixed issues with encoding and POD.
        Removed POD tests for non-authors.
